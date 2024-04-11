@@ -1,0 +1,13 @@
+{
+  "name": "code-review-render",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "@zip.js/zip.js": "^2.7.41",
+    "shiki": "^1.2.4"
+  }
+}
